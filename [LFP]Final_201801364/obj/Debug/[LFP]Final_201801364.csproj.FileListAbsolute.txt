@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\[LFP]Final_201801364\[LFP]Final_201801364\bin\Debug\[LFP]Final_201801364.exe.config
+C:\Users\User\source\repos\[LFP]Final_201801364\[LFP]Final_201801364\bin\Debug\[LFP]Final_201801364.exe
+C:\Users\User\source\repos\[LFP]Final_201801364\[LFP]Final_201801364\bin\Debug\[LFP]Final_201801364.pdb
+C:\Users\User\source\repos\[LFP]Final_201801364\[LFP]Final_201801364\obj\Debug\[LFP]Final_201801364.csprojAssemblyReference.cache
+C:\Users\User\source\repos\[LFP]Final_201801364\[LFP]Final_201801364\obj\Debug\_LFP_Final_201801364.Form1.resources
+C:\Users\User\source\repos\[LFP]Final_201801364\[LFP]Final_201801364\obj\Debug\_LFP_Final_201801364.Properties.Resources.resources
+C:\Users\User\source\repos\[LFP]Final_201801364\[LFP]Final_201801364\obj\Debug\[LFP]Final_201801364.csproj.GenerateResource.cache
+C:\Users\User\source\repos\[LFP]Final_201801364\[LFP]Final_201801364\obj\Debug\[LFP]Final_201801364.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\[LFP]Final_201801364\[LFP]Final_201801364\obj\Debug\[LFP]Final_201801364.exe
+C:\Users\User\source\repos\[LFP]Final_201801364\[LFP]Final_201801364\obj\Debug\[LFP]Final_201801364.pdb
